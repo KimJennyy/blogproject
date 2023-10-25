@@ -1,0 +1,36 @@
+로그인 예제와 시큐리티 설정
+https://velog.io/@s2ljeun/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0-%EC%84%A4%EC%A0%95-Spring-Boot-JSP
+
+
+
+구 / 신버전 객체 차이
+javaEE / jakarta
+https://www.samsungsds.com/kr/insights/java_jakarta.html
+
+
+DTO 매핑, 테스트 코드
+https://huisam.tistory.com/entry/mapStruct
+
+
+
+
+
+
+객체 정리
+
+
+jakarta.servlet
+    http.HttpServletRequest  HTTP 클라이언트 요청객체
+    http.HttpServletResponse  HTTP 응답
+    ServletException    예외처리
+
+
+
+
+스프링 시큐리티, 톰캣
+AuthenticationException
+
+
+
+
+
